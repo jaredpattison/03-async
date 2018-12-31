@@ -2,7 +2,9 @@
 
 jest.mock('fs');
 
-const reader = require('../../lib/reader.js');
+// const reader = require('../../lib/reader-promises.js');
+const reader = require('../../lib/reader-fixed.js');
+// const reader = require('../../lib/reader-promise-all.js');
 
 describe('File Reader Module', () => {
 
@@ -19,7 +21,7 @@ describe('File Reader Module', () => {
 
 
   it('reads 3 files', done => {
-    let files = ['file1.txt', 'file2.txt', 'file2.txt'];
+    let files = ['files/1.txt', 'files/2.txt', 'files/3.txt'];
     reader(files, (err,data) => {
       expect(err).toBeNull();
       expect(data instanceof Array ).toBeTruthy();
