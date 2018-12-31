@@ -15,7 +15,9 @@
 ### Modules
 #### `edit-file.js`
 #### `index.js`
-#### 
+#### `reader-fixed`
+#### `reader-promises`
+#### `reader-promises-all`
 ##### Exported Values and Methods
 
 ###### ``
@@ -28,6 +30,9 @@
 #### `.env` requirements
 
 #### Running the app
+#### run from command line `node index.js files/1.txt files/2.txt files/3.txt`
+
+comment in or out files you want to run in index.js, only `reader-promises-all.js` currently accepts more or less than 3 files
 
 #### Tests
 * How do you run tests?
