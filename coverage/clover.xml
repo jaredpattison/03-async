@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1539040738302" clover="3.2.0">
-  <project timestamp="1539040738302" name="All files">
-    <metrics statements="24" coveredstatements="22" conditionals="8" coveredconditionals="6" methods="7" coveredmethods="7" elements="39" coveredelements="35" complexity="0" loc="24" ncloc="24" packages="1" files="1" classes="1">
-      <file name="reader-callbacks.js" path="/Users/john/codefellows/javascript-401/curriculum/03-async/lab/lib/reader-callbacks.js">
-        <metrics statements="24" coveredstatements="22" conditionals="8" coveredconditionals="6" methods="7" coveredmethods="7"/>
+<coverage generated="1546233982231" clover="3.2.0">
+  <project timestamp="1546233982231" name="All files">
+    <metrics statements="27" coveredstatements="25" conditionals="8" coveredconditionals="6" methods="7" coveredmethods="7" elements="42" coveredelements="38" complexity="0" loc="27" ncloc="27" packages="1" files="1" classes="1">
+      <file name="reader-fixed.js" path="/mnt/c/Users/jared/codefellows/401/labs/03-async/lib/reader-fixed.js">
+        <metrics statements="27" coveredstatements="25" conditionals="8" coveredconditionals="6" methods="7" coveredmethods="7"/>
         <line num="3" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
         <line num="9" count="1" type="stmt"/>
@@ -20,14 +20,17 @@
         <line num="36" count="1" type="stmt"/>
         <line num="39" count="1" type="stmt"/>
         <line num="40" count="1" type="stmt"/>
-        <line num="41" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="42" count="0" type="stmt"/>
-        <line num="45" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="43" count="0" type="stmt"/>
         <line num="46" count="1" type="stmt"/>
-        <line num="47" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="48" count="0" type="stmt"/>
-        <line num="51" count="1" type="stmt"/>
-        <line num="52" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="49" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
       </file>
     </metrics>
   </project>

@@ -6,16 +6,16 @@
 ### Author: Jared
 
 ### Links and Resources
-![Build Status](https://www.travis-ci.com/jaredpattison/02-classes-inheritance-fp.svg?branch=master)
+[![Build Status](https://www.travis-ci.com/jaredpattison/03-async.svg?branch=master)](https://www.travis-ci.com/jaredpattison/03-async)
 
-* [repo](https://github.com/jaredpattison/02-classes-inheritance-fp)
-* [travis](https://www.travis-ci.com/jaredpattison/02-classes-inheritance-fp)
+* [repo](https://github.com/jaredpattison/03-async)
+* [travis](https://www.travis-ci.com/jaredpattison/03-async)
 
 
 ### Modules
-#### `vehicle-class.js`
-#### `vehicle-constructor.js`
-#### `vehicle-factory.js`
+#### `edit-file.js`
+#### `index.js`
+#### 
 ##### Exported Values and Methods
 
 ###### ``
